@@ -8,9 +8,6 @@ name: ""
 
 ![Material Screenshot](/static/Loomlogo.svg)
 
-{{< note title="Hi Nigel" >}}
-Nothing to see here, move along.
-{{< /note >}}
 
 
 ## Admonitions

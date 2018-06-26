@@ -10,8 +10,8 @@ googleAnalytics = ""
 [params]
 	# General information
 	author = "Robert Morgan"
-	description = "A material design theme for documentations."
-	copyright = "Released under the MIT license"
+	description = "Look on Loom"
+	copyright = "Loom Legal"
 
 	# Repository
 	provider = "GitHub"
