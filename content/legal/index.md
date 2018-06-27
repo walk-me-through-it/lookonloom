@@ -1,11 +1,16 @@
 ---
 date: 2016-03-09T20:10:46+01:00
-title: License
+title: T&Cs
 weight: 40
 ---
 
-Copyright (c) 2016 Digitalcraftsman <digitalcraftsman@protonmail.com><br>
-Copyright (c) 2016 Martin Donath <martin.donath@squidfunk.com>
+Copyright (c) 2018 Robert Morgan
+
+{{< note title="Not the real T&Cs" >}}
+Need to add Privacy Notice, T&Cs etc here.
+ {{< /note >}}
+
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to

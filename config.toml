@@ -11,7 +11,7 @@ googleAnalytics = ""
 	# General information
 	author = "Robert Morgan"
 	description = "Look on Loom"
-	copyright = "Loom Legal"
+	copyright = "Robert Morgan"
 
 	# Repository
 	provider = "GitHub"
@@ -31,49 +31,18 @@ googleAnalytics = ""
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "grey"
+    	primary = "indigo"
     	accent  = "amber"
 
     [params.font]
-    	text = "Helvetica Neue"
-    	code = "Helvetica Neue"
+    	text = "Open Sans"
+    	code = "Open Sans"
 
 
 [social]
 	twitter = ""
-	github  = "digitalcraftsman"
+	github  = ""
 	email   = "hello@email.com"
-
-
-[[menu.main]]
-	name   = "Material"
-	url    = "/"
-	weight = 0
-
-[[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
-	weight = 10
-
-[[menu.main]]
-	name   = "Adding content"
-	url    = "adding-content/"
-	weight = 20
-
-[[menu.main]]
-	name   = "Roadmap"
-	url    = "roadmap/"
-	weight = 30
-
-[[menu.main]]
-	name   = "License"
-	url    = "license/"
-	weight = 40
-
-[[menu.main]]
-	name   = "Rob"
-	url    = "robert/"
-	weight = 50
 
 
 [blackfriday]
@@ -81,3 +50,41 @@ googleAnalytics = ""
 	fractions = true
 	smartDashes = true
 	plainIDAnchors = true
+
+
+[[menu.main]]
+	name   = "Conveyancing"
+	url    = "conveyancing/"
+	weight = 10
+
+[[menu.main]]
+	name   = "Your stories"
+	url    = "your-stories/"
+	weight = 20
+
+[[menu.main]]
+	name   = "Find a Conveyancer"
+	url    = "find-a-conveyancer/"
+	weight = 30
+
+[[menu.main]]
+	name   = "Loom Legal Outsourcing"
+	url    = "outsourcing/"
+	weight = 35
+
+
+[[menu.main]]
+	name   = "T&Cs"
+	url    = "legal/"
+	weight = 40
+
+[[menu.main]]
+	name   = "**Notes on building this website**"
+	url    = "robert/"
+	weight = 50
+
+
+[[menu.main]]
+	name   = "About Loom"
+	url    = "about/"
+	weight = 60
