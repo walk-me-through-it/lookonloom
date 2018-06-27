@@ -1,3 +1,4 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:walk-me-through-it/walk-me-through-it.github.io.git
+	branch = master
