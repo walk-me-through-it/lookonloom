@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://walk-me-through-it.github.io/lookonloom/"
 languageCode = "en-us"
 title = "Look on Loom"
 theme = "hugo-material-docs"
